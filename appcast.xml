@@ -9,9 +9,9 @@
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://rsw.app/apps/mactranscribe/releases/v1.0/MacTranscribe.dmg"
+        url="https://github.com/macfoundryapps/MacTranscribe/raw/refs/heads/main/MacTranscribe.dmg"
         type="application/octet-stream"
-        sparkle:edSignature="cyFAnt8a3mBZeF+3+nyPgF2HwX0Q7EcvzpItrvhiMv6CjotrkfFbzblXg3hSdm3P4Ou6ONmUVmuA0fx/s3I5CQ==" length="21077420"
+        sparkle:edSignature="B1I1t7RsK+0btJfIe/R58udnSr2Qj4io8rR100hnhqFrcgRc0Alcrrq/5kKhVYRvcretS5gLb36XQGDJr8+lAQ==" length="21077510"
       />
     </item>
   </channel>
