@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>MacTranscribe</title>
+    <link>https://gumroad.com/mactranscribe</link>
+    <item>
+      <title>Version 1</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://rsw.app/apps/mactranscribe/releases/v1.0/MacTranscribe.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="cyFAnt8a3mBZeF+3+nyPgF2HwX0Q7EcvzpItrvhiMv6CjotrkfFbzblXg3hSdm3P4Ou6ONmUVmuA0fx/s3I5CQ==" length="21077420"
+      />
+    </item>
+  </channel>
+</rss>
